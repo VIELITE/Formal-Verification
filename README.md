@@ -1,2 +1,2 @@
 # Formal-Verification
-Practical formal verification using Lean4
+Learning practical formal verification using Lean4
